@@ -6,4 +6,5 @@ segurança de páginas onde só mostra para quem está logado as duas páginas (
 não está, é automaticamente redirecionado para o login!!<br><br>
   º Para se usar o banco de dados, deve mudar no arquivo de conexão o usuário e senha do banco, para que assim se conecte ao banco...
 neste exemplo, utilizei um usuário e senha padrão (root e root) e assim criei um usuário de testes, para fazer todo o processo de verificação!!<br><br>
+  º Link do vídeo de teste realizado: https://vimeo.com/754389134 <br><br>
   º Trabalho realizado para a diciplina de <strong>PW-II da ETEC de Taboão da Serra</strong>!!🫡🫡
